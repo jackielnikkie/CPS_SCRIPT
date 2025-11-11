@@ -1,7 +1,4 @@
-------------------------------------------------------------
--- 🧭 Magplant Stock Scanner + Safe Pathing (Anti-Cheat)
--- by Bos Muda 🧠🔥
-------------------------------------------------------------
+
 
 -- ⚙️ SETTINGS
 IDs =104            -- Background ID yang ada di belakang Magplant
