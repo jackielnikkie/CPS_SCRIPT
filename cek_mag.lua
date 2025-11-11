@@ -29,9 +29,7 @@ local function intToString(i)
     return tostring(i):reverse():gsub("%d%d%d", "%1,"):reverse():gsub("^,", "")
 end
 
-------------------------------------------------------------
--- 🚶 Smart Pathing Function (Anti-Cheat)
-------------------------------------------------------------
+
 
 local function malastpgw(x, y)
     local px = math.floor(GetLocal().pos.x / 32)
